@@ -14,7 +14,3 @@ def bubble_sort(arr):
             break
     return arr
 
-# Example usage
-data = [64, 34, 25, 99, 22, 11, 90]
-sorted_data = bubble_sort(data)
-print("Sorted array:", sorted_data)
